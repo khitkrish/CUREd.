@@ -1,0 +1,2 @@
+# CUREd.
+a cured website 
