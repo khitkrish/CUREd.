@@ -1,2 +1,1 @@
-# CUREd.
-a cured website 
+
